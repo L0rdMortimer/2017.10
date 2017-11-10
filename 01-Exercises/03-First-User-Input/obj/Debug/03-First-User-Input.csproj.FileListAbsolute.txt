@@ -1,0 +1,7 @@
+C:\Users\Frog\source\repos\01-Exercises\03-First-User-Input\obj\Debug\03-First-User-Input.csprojResolveAssemblyReference.cache
+C:\Users\Frog\source\repos\01-Exercises\03-First-User-Input\obj\Debug\03-First-User-Input.csproj.CoreCompileInputs.cache
+C:\Users\Frog\source\repos\01-Exercises\03-First-User-Input\bin\Debug\03-First-User-Input.exe.config
+C:\Users\Frog\source\repos\01-Exercises\03-First-User-Input\bin\Debug\03-First-User-Input.exe
+C:\Users\Frog\source\repos\01-Exercises\03-First-User-Input\bin\Debug\03-First-User-Input.pdb
+C:\Users\Frog\source\repos\01-Exercises\03-First-User-Input\obj\Debug\03-First-User-Input.exe
+C:\Users\Frog\source\repos\01-Exercises\03-First-User-Input\obj\Debug\03-First-User-Input.pdb

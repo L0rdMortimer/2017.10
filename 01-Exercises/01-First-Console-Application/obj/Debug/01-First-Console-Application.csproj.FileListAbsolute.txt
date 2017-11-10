@@ -1,0 +1,7 @@
+C:\Users\Frog\source\repos\01-Exercises\01-First-Console-Application\bin\Debug\01-First-Console-Application.exe.config
+C:\Users\Frog\source\repos\01-Exercises\01-First-Console-Application\bin\Debug\01-First-Console-Application.exe
+C:\Users\Frog\source\repos\01-Exercises\01-First-Console-Application\bin\Debug\01-First-Console-Application.pdb
+C:\Users\Frog\source\repos\01-Exercises\01-First-Console-Application\obj\Debug\01-First-Console-Application.csprojResolveAssemblyReference.cache
+C:\Users\Frog\source\repos\01-Exercises\01-First-Console-Application\obj\Debug\01-First-Console-Application.csproj.CoreCompileInputs.cache
+C:\Users\Frog\source\repos\01-Exercises\01-First-Console-Application\obj\Debug\01-First-Console-Application.exe
+C:\Users\Frog\source\repos\01-Exercises\01-First-Console-Application\obj\Debug\01-First-Console-Application.pdb

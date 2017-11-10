@@ -1,0 +1,6 @@
+C:\Users\Frog\source\repos\01-Exercises\02-Printing-Out-Text\bin\Debug\02-Printing-Out-Text.exe.config
+C:\Users\Frog\source\repos\01-Exercises\02-Printing-Out-Text\bin\Debug\02-Printing-Out-Text.exe
+C:\Users\Frog\source\repos\01-Exercises\02-Printing-Out-Text\bin\Debug\02-Printing-Out-Text.pdb
+C:\Users\Frog\source\repos\01-Exercises\02-Printing-Out-Text\obj\Debug\02-Printing-Out-Text.csproj.CoreCompileInputs.cache
+C:\Users\Frog\source\repos\01-Exercises\02-Printing-Out-Text\obj\Debug\02-Printing-Out-Text.exe
+C:\Users\Frog\source\repos\01-Exercises\02-Printing-Out-Text\obj\Debug\02-Printing-Out-Text.pdb

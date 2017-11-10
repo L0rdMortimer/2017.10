@@ -1,0 +1,6 @@
+C:\Users\Frog\source\repos\01-Exercises\04-Parse-Input-To-Int\bin\Debug\04-Parse-Input-To-Int.exe.config
+C:\Users\Frog\source\repos\01-Exercises\04-Parse-Input-To-Int\bin\Debug\04-Parse-Input-To-Int.exe
+C:\Users\Frog\source\repos\01-Exercises\04-Parse-Input-To-Int\bin\Debug\04-Parse-Input-To-Int.pdb
+C:\Users\Frog\source\repos\01-Exercises\04-Parse-Input-To-Int\obj\Debug\04-Parse-Input-To-Int.csproj.CoreCompileInputs.cache
+C:\Users\Frog\source\repos\01-Exercises\04-Parse-Input-To-Int\obj\Debug\04-Parse-Input-To-Int.exe
+C:\Users\Frog\source\repos\01-Exercises\04-Parse-Input-To-Int\obj\Debug\04-Parse-Input-To-Int.pdb
