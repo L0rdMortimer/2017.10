@@ -22,6 +22,7 @@ namespace _05_Exxxs
 
 
             }
+            Console.WriteLine("hub hub hub. infidels");
                 Console.ReadLine();
             
         }
