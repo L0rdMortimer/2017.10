@@ -10,10 +10,10 @@ namespace _05_Exxxs
     {
         static void Main(string[] args)
         {
-;            for (int n = 1; n < 6; n++)
+;            for (int n = 1; n < 7; n++)
             {
                 Console.Write("{0}\t",n);
-                for (int m = 1; m < 6; m++)
+                for (int m = 1; m < 7; m++)
                 {
                     Console.Write("{0}\t",n * m);
 
@@ -22,7 +22,7 @@ namespace _05_Exxxs
 
 
             }
-            Console.WriteLine("hub hub hub. infidels");
+            Console.WriteLine("Press Enter...");
                 Console.ReadLine();
             
         }
