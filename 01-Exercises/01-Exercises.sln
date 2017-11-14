@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-First-User-Input", "03-F
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-Parse-Input-To-Int", "04-Parse-Input-To-Int\04-Parse-Input-To-Int.csproj", "{2C5C25D9-9106-4C07-B337-1101E8111817}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-Parse-Input-Multiply-Divide", "05-Parse-Input-Multiply-Divide\05-Parse-Input-Multiply-Divide.csproj", "{9BBF4655-82B0-44FB-885D-0FCE26CECF22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-Less-Or-Greater-Than", "06-Less-Or-Greater-Than\06-Less-Or-Greater-Than.csproj", "{BDE6FB04-F140-4142-A4ED-A8ADAFCBE5CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{2C5C25D9-9106-4C07-B337-1101E8111817}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C5C25D9-9106-4C07-B337-1101E8111817}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C5C25D9-9106-4C07-B337-1101E8111817}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BBF4655-82B0-44FB-885D-0FCE26CECF22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BBF4655-82B0-44FB-885D-0FCE26CECF22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BBF4655-82B0-44FB-885D-0FCE26CECF22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BBF4655-82B0-44FB-885D-0FCE26CECF22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDE6FB04-F140-4142-A4ED-A8ADAFCBE5CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDE6FB04-F140-4142-A4ED-A8ADAFCBE5CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDE6FB04-F140-4142-A4ED-A8ADAFCBE5CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDE6FB04-F140-4142-A4ED-A8ADAFCBE5CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

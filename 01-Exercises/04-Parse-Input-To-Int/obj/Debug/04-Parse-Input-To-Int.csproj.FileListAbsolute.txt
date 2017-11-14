@@ -4,3 +4,9 @@ C:\Users\Frog\source\repos\01-Exercises\04-Parse-Input-To-Int\bin\Debug\04-Parse
 C:\Users\Frog\source\repos\01-Exercises\04-Parse-Input-To-Int\obj\Debug\04-Parse-Input-To-Int.csproj.CoreCompileInputs.cache
 C:\Users\Frog\source\repos\01-Exercises\04-Parse-Input-To-Int\obj\Debug\04-Parse-Input-To-Int.exe
 C:\Users\Frog\source\repos\01-Exercises\04-Parse-Input-To-Int\obj\Debug\04-Parse-Input-To-Int.pdb
+D:\Kool\Programmeerimise-Alused\01-Exercises\04-Parse-Input-To-Int\bin\Debug\04-Parse-Input-To-Int.exe.config
+D:\Kool\Programmeerimise-Alused\01-Exercises\04-Parse-Input-To-Int\bin\Debug\04-Parse-Input-To-Int.exe
+D:\Kool\Programmeerimise-Alused\01-Exercises\04-Parse-Input-To-Int\bin\Debug\04-Parse-Input-To-Int.pdb
+D:\Kool\Programmeerimise-Alused\01-Exercises\04-Parse-Input-To-Int\obj\Debug\04-Parse-Input-To-Int.csproj.CoreCompileInputs.cache
+D:\Kool\Programmeerimise-Alused\01-Exercises\04-Parse-Input-To-Int\obj\Debug\04-Parse-Input-To-Int.exe
+D:\Kool\Programmeerimise-Alused\01-Exercises\04-Parse-Input-To-Int\obj\Debug\04-Parse-Input-To-Int.pdb

@@ -12,11 +12,11 @@ namespace _04_Parse_Input_To_Int
         {
             Console.WriteLine("Tere. Olen kalkulaator-programm. Ütle mulle 2 numbrit ja ma ütlen sulle nende summa.");
             Console.Write("\nKirjuta esimene number: ");
-            string n1 = Console.ReadLine();
+            string n1 = Console.ReadLine(); //string moodustab uue kasutatava elemendi millele väärtuse saab siis kust vaja
             Console.Write("\nKirjuta teine number: ");
             string n2 = Console.ReadLine();
 
-            int n11 = int.Parse(n1);
+            int n11 = int.Parse(n1); //int.Parse teeb user inputist tähemärgi asmel numbri märgi
             int n22 = int.Parse(n2);
 
             int sum = n11 + n22;

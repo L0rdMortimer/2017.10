@@ -5,3 +5,10 @@ C:\Users\Frog\source\repos\01-Exercises\03-First-User-Input\bin\Debug\03-First-U
 C:\Users\Frog\source\repos\01-Exercises\03-First-User-Input\bin\Debug\03-First-User-Input.pdb
 C:\Users\Frog\source\repos\01-Exercises\03-First-User-Input\obj\Debug\03-First-User-Input.exe
 C:\Users\Frog\source\repos\01-Exercises\03-First-User-Input\obj\Debug\03-First-User-Input.pdb
+D:\Kool\Programmeerimise-Alused\01-Exercises\03-First-User-Input\bin\Debug\03-First-User-Input.exe.config
+D:\Kool\Programmeerimise-Alused\01-Exercises\03-First-User-Input\bin\Debug\03-First-User-Input.exe
+D:\Kool\Programmeerimise-Alused\01-Exercises\03-First-User-Input\bin\Debug\03-First-User-Input.pdb
+D:\Kool\Programmeerimise-Alused\01-Exercises\03-First-User-Input\obj\Debug\03-First-User-Input.csprojResolveAssemblyReference.cache
+D:\Kool\Programmeerimise-Alused\01-Exercises\03-First-User-Input\obj\Debug\03-First-User-Input.csproj.CoreCompileInputs.cache
+D:\Kool\Programmeerimise-Alused\01-Exercises\03-First-User-Input\obj\Debug\03-First-User-Input.exe
+D:\Kool\Programmeerimise-Alused\01-Exercises\03-First-User-Input\obj\Debug\03-First-User-Input.pdb

@@ -5,3 +5,10 @@ C:\Users\Frog\source\repos\01-Exercises\01-First-Console-Application\obj\Debug\0
 C:\Users\Frog\source\repos\01-Exercises\01-First-Console-Application\obj\Debug\01-First-Console-Application.csproj.CoreCompileInputs.cache
 C:\Users\Frog\source\repos\01-Exercises\01-First-Console-Application\obj\Debug\01-First-Console-Application.exe
 C:\Users\Frog\source\repos\01-Exercises\01-First-Console-Application\obj\Debug\01-First-Console-Application.pdb
+D:\Kool\Programmeerimise-Alused\01-Exercises\01-First-Console-Application\bin\Debug\01-First-Console-Application.exe.config
+D:\Kool\Programmeerimise-Alused\01-Exercises\01-First-Console-Application\bin\Debug\01-First-Console-Application.exe
+D:\Kool\Programmeerimise-Alused\01-Exercises\01-First-Console-Application\bin\Debug\01-First-Console-Application.pdb
+D:\Kool\Programmeerimise-Alused\01-Exercises\01-First-Console-Application\obj\Debug\01-First-Console-Application.csprojResolveAssemblyReference.cache
+D:\Kool\Programmeerimise-Alused\01-Exercises\01-First-Console-Application\obj\Debug\01-First-Console-Application.csproj.CoreCompileInputs.cache
+D:\Kool\Programmeerimise-Alused\01-Exercises\01-First-Console-Application\obj\Debug\01-First-Console-Application.exe
+D:\Kool\Programmeerimise-Alused\01-Exercises\01-First-Console-Application\obj\Debug\01-First-Console-Application.pdb
