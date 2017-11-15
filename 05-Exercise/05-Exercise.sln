@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-6x6-Multiply-Table", "01-6x6-Multiply-Table\01-6x6-Multiply-Table.csproj", "{AD82DA2B-5F55-4524-84C9-3561DC27FEDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-Kotionu", "02-Kotionu\02-Kotionu.csproj", "{5119C7BA-A95A-442A-AA3A-E4C0728FA386}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD82DA2B-5F55-4524-84C9-3561DC27FEDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD82DA2B-5F55-4524-84C9-3561DC27FEDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD82DA2B-5F55-4524-84C9-3561DC27FEDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD82DA2B-5F55-4524-84C9-3561DC27FEDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5119C7BA-A95A-442A-AA3A-E4C0728FA386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5119C7BA-A95A-442A-AA3A-E4C0728FA386}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5119C7BA-A95A-442A-AA3A-E4C0728FA386}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5119C7BA-A95A-442A-AA3A-E4C0728FA386}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9022D4FF-7C61-438E-B3AC-7DFEA9F6FC10}
+	EndGlobalSection
+EndGlobal
