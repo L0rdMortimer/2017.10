@@ -23,7 +23,7 @@ namespace _02_Kotionu
                 }
                 else
                     Console.WriteLine("\nLiiga suur number. Proovi väiksemat.\n");
-                continue;
+                    continue;
             }
             //võta kotist rändom ese.
             //Tänane kingitus on:
