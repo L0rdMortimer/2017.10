@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-Tunnit88", "01-Tunnit88\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-Tunnikontroll", "02-Tunnikontroll\02-Tunnikontroll.csproj", "{A360CDCC-BC17-4333-BDD8-6C3796ACD1D8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-Tunnikontroll-Koos", "03-Tunnikontroll-Koos\03-Tunnikontroll-Koos.csproj", "{5E2EEF28-FB55-49EF-A95C-399617821A31}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A360CDCC-BC17-4333-BDD8-6C3796ACD1D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A360CDCC-BC17-4333-BDD8-6C3796ACD1D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A360CDCC-BC17-4333-BDD8-6C3796ACD1D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E2EEF28-FB55-49EF-A95C-399617821A31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E2EEF28-FB55-49EF-A95C-399617821A31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E2EEF28-FB55-49EF-A95C-399617821A31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E2EEF28-FB55-49EF-A95C-399617821A31}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
