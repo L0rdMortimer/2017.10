@@ -40,7 +40,7 @@ namespace _01_Tunnit88
                 } 
 
             Console.WriteLine("\n Vägev. Minu kord.");
-            Console.WriteLine($"\nMina viskasin {vis1}");
+            Console.WriteLine($"\nMina viskasin ");
 
                             
 
