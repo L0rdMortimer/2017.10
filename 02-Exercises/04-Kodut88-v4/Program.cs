@@ -14,35 +14,28 @@ namespace _04_Kodut88_v4
             Random rnd = new Random();
             int arv = rnd.Next(0, 11);
 
-            Console.Write("\nSina pakud: ");
-            string q = Console.ReadLine();
-            int q4 = int.Parse(q);
 
-
-            while (true)
+            while (arv == q4)// SIIT ON ERROR KUIDAS TEHA ILMA TRUE/CONTINUE/BREAK süsteemida while asja.
             {
+                Console.Write("\nSina pakud: ");
+                string q = Console.ReadLine();
+                int q4 = int.Parse(q);
+                
                 if (arv < q4)
                 {
-                    Console.WriteLine("Sinu number on suurem.");
-                    return;
+                    Console.WriteLine("Sinu number oli Suurem. Proovi veel.");
                 }
                 if (arv > q4)
                 {
-                    Console.WriteLine("Sinu number on väiksem.");
-                    return;
+                    Console.WriteLine("Sinu number oli väiksem. Proovi veel.");
                 }
                 if (arv == q4)
                 {
-                    Console.WriteLine("Sa arvasid minu numbri.");
-                    continue;
+                    Console.WriteLine("Õige! Arvasid numbri ära!");
                 }
-                Console.WriteLine("Press Enter...");
-                Console.ReadLine();
             }
-
-
-            
-
+            Console.WriteLine("Press Enter...");
+            Console.ReadLine();
         }
     }
 }
