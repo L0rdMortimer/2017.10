@@ -1,0 +1,7 @@
+C:\Users\Frog\source\repos\Black-Jack\Black-Jack-Maja-V6tab\bin\Debug\Black-Jack-Maja-V6tab.exe.config
+C:\Users\Frog\source\repos\Black-Jack\Black-Jack-Maja-V6tab\bin\Debug\Black-Jack-Maja-V6tab.exe
+C:\Users\Frog\source\repos\Black-Jack\Black-Jack-Maja-V6tab\bin\Debug\Black-Jack-Maja-V6tab.pdb
+C:\Users\Frog\source\repos\Black-Jack\Black-Jack-Maja-V6tab\obj\Debug\Black-Jack-Maja-V6tab.csproj.CoreCompileInputs.cache
+C:\Users\Frog\source\repos\Black-Jack\Black-Jack-Maja-V6tab\obj\Debug\Black-Jack-Maja-V6tab.exe
+C:\Users\Frog\source\repos\Black-Jack\Black-Jack-Maja-V6tab\obj\Debug\Black-Jack-Maja-V6tab.pdb
+C:\Users\Frog\source\repos\Black-Jack\Black-Jack-Maja-V6tab\obj\Debug\Black-Jack-Maja-V6tab.csprojResolveAssemblyReference.cache

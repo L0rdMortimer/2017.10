@@ -1,0 +1,6 @@
+C:\Users\Frog\source\repos\Black-Jack\Sitbläk\bin\Debug\Sitbläk.exe.config
+C:\Users\Frog\source\repos\Black-Jack\Sitbläk\bin\Debug\Sitbläk.exe
+C:\Users\Frog\source\repos\Black-Jack\Sitbläk\bin\Debug\Sitbläk.pdb
+C:\Users\Frog\source\repos\Black-Jack\Sitbläk\obj\Debug\Sitbläk.csproj.CoreCompileInputs.cache
+C:\Users\Frog\source\repos\Black-Jack\Sitbläk\obj\Debug\Sitbläk.exe
+C:\Users\Frog\source\repos\Black-Jack\Sitbläk\obj\Debug\Sitbläk.pdb
