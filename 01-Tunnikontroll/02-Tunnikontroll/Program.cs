@@ -20,7 +20,7 @@ namespace _02_Tunnikontroll
                 
                 if (sisend == "-1") break;
 
-                { summa= summa+sisend
+                {
             }
             Console.WriteLine("*******************************************");
 

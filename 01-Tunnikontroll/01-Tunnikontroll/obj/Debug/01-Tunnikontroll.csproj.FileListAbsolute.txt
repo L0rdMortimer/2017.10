@@ -5,3 +5,10 @@ C:\Users\mikk.lagemaa\source\repos\01-Tunnikontroll\01-Tunnikontroll\bin\Debug\0
 C:\Users\mikk.lagemaa\source\repos\01-Tunnikontroll\01-Tunnikontroll\bin\Debug\01-Tunnikontroll.pdb
 C:\Users\mikk.lagemaa\source\repos\01-Tunnikontroll\01-Tunnikontroll\obj\Debug\01-Tunnikontroll.exe
 C:\Users\mikk.lagemaa\source\repos\01-Tunnikontroll\01-Tunnikontroll\obj\Debug\01-Tunnikontroll.pdb
+C:\Users\mikk.lagemaa\Source\Repos\Programmeerimise-Alused\01-Tunnikontroll\01-Tunnikontroll\bin\Debug\01-Tunnikontroll.exe.config
+C:\Users\mikk.lagemaa\Source\Repos\Programmeerimise-Alused\01-Tunnikontroll\01-Tunnikontroll\bin\Debug\01-Tunnikontroll.exe
+C:\Users\mikk.lagemaa\Source\Repos\Programmeerimise-Alused\01-Tunnikontroll\01-Tunnikontroll\bin\Debug\01-Tunnikontroll.pdb
+C:\Users\mikk.lagemaa\Source\Repos\Programmeerimise-Alused\01-Tunnikontroll\01-Tunnikontroll\obj\Debug\01-Tunnikontroll.csprojResolveAssemblyReference.cache
+C:\Users\mikk.lagemaa\Source\Repos\Programmeerimise-Alused\01-Tunnikontroll\01-Tunnikontroll\obj\Debug\01-Tunnikontroll.csproj.CoreCompileInputs.cache
+C:\Users\mikk.lagemaa\Source\Repos\Programmeerimise-Alused\01-Tunnikontroll\01-Tunnikontroll\obj\Debug\01-Tunnikontroll.exe
+C:\Users\mikk.lagemaa\Source\Repos\Programmeerimise-Alused\01-Tunnikontroll\01-Tunnikontroll\obj\Debug\01-Tunnikontroll.pdb

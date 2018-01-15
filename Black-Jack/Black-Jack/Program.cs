@@ -33,7 +33,7 @@ namespace Black_Jack
                     int p0 = p1 + p2;
                     Console.WriteLine("Kokku {0} punkti", p0);
 
-
+                    //nidunadu nii
 
                     int m1 = deck.Next(2, 12);
                     int m2 = deck.Next(2, 12);
