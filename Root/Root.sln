@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2009
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-Oks", "01-Oks\01-Oks.csproj", "{D4BE1F16-15A4-4C14-BD56-9D4DBA5C003C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-6-T2ringut", "01-Oks\01-6-T2ringut.csproj", "{D4BE1F16-15A4-4C14-BD56-9D4DBA5C003C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-Ehita-T2ring", "02-Ehita-T2ring\02-Ehita-T2ring.csproj", "{6219F717-30B6-4E8B-8849-06F8640E0D2F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{D4BE1F16-15A4-4C14-BD56-9D4DBA5C003C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4BE1F16-15A4-4C14-BD56-9D4DBA5C003C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4BE1F16-15A4-4C14-BD56-9D4DBA5C003C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6219F717-30B6-4E8B-8849-06F8640E0D2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6219F717-30B6-4E8B-8849-06F8640E0D2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6219F717-30B6-4E8B-8849-06F8640E0D2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6219F717-30B6-4E8B-8849-06F8640E0D2F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

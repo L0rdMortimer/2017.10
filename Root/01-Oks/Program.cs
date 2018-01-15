@@ -10,17 +10,6 @@ namespace _01_Oks
     {
         static void Main(string[] args)
         {
-            //Console.WriteLine("Teeme täringute viskamise programmi.");
-            //Console.WriteLine("");
-            //ütle täringu tahkude arv
-            //ehita vastav täring
-            //viska seda täringut
-            //ehita uus täring
-            //lõpeta
-
-
-            //////////////////////////////////////////////////////////////
-
             Console.WriteLine("Mul on mitu täringut.\nd4, d6, d8, d10, d12 ja d20.\nMillist soovid visata?\nLõpetamiseks kirjuta \"0\"");
             Random die = new Random();
             while (true)
