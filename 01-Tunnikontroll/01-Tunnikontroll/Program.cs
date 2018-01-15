@@ -19,7 +19,7 @@ namespace _01_Tunnikontroll
                 Console.WriteLine("_______________________");
                 Console.Write(">");
                 string ese = Console.ReadLine();
-                
+
                 if (ese != "x")
                 {
                     tasku.Add(ese);
@@ -28,10 +28,14 @@ namespace _01_Tunnikontroll
                 else
                     break;
             }
-            Console.WriteLine("Sinu taskutes on: {0} asja",tasku.Count);
+            Console.WriteLine("Sinu taskutes on: {0} asja", tasku.Count);
+            int sum = tasku.Count;
+            string need = string.Join<string>(", ", tasku);
+            Console.WriteLine("Need on: "+ need);
+            
             Random rnd = new Random();
             int esex = rnd.Next(tasku.Count);
-            Console.WriteLine("Suvaline ese sinu taskust on: "+ tasku[esex]);
+            Console.WriteLine("Suvaline ese sinu taskust on: " + tasku[esex]);
             Console.ReadLine();
 
         }
