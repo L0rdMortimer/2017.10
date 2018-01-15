@@ -1,0 +1,6 @@
+C:\Users\mikk.lagemaa\source\repos\01-Tunnikontroll\02-Tunnikontroll\bin\Debug\02-Tunnikontroll.exe.config
+C:\Users\mikk.lagemaa\source\repos\01-Tunnikontroll\02-Tunnikontroll\bin\Debug\02-Tunnikontroll.exe
+C:\Users\mikk.lagemaa\source\repos\01-Tunnikontroll\02-Tunnikontroll\bin\Debug\02-Tunnikontroll.pdb
+C:\Users\mikk.lagemaa\source\repos\01-Tunnikontroll\02-Tunnikontroll\obj\Debug\02-Tunnikontroll.csproj.CoreCompileInputs.cache
+C:\Users\mikk.lagemaa\source\repos\01-Tunnikontroll\02-Tunnikontroll\obj\Debug\02-Tunnikontroll.exe
+C:\Users\mikk.lagemaa\source\repos\01-Tunnikontroll\02-Tunnikontroll\obj\Debug\02-Tunnikontroll.pdb
